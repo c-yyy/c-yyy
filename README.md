@@ -1,7 +1,7 @@
 ## 我是inpm 🏆
 
 - 🐧 &nbsp;&nbsp;全栈开发攻城狮(JavaScript + Golang)
-- 🚀 &nbsp;&nbsp;作品：
+- 🚀 &nbsp;&nbsp;作品：xd-work
 - 🌱 &nbsp;&nbsp;热爱分享 
 - 😺 &nbsp;&nbsp;趣讲技术
 - 💬 &nbsp;&nbsp;微信：ccyynow07
