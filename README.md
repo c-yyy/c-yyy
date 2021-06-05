@@ -1,6 +1,6 @@
 ## 我是inpm 🏆
 
-- 🐧 &nbsp;&nbsp;全栈开发攻城狮(JavaScript + Golang)
+- 🐧 &nbsp;&nbsp;全栈开发攻城狮(TypeScript + Golang)
 
 ## 新年汇总 ✨
 
